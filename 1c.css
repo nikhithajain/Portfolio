@@ -1,0 +1,12 @@
+body{
+	background-color: #20AEB5;
+}
+
+.sec{
+	width: 10%;
+	border: solid 10px #0B289D;
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	margin: 300px;
+}

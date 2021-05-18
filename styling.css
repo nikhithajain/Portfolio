@@ -1,0 +1,173 @@
+body{
+	background-color: #D4F2C0;
+	border: 20px solid black;
+	margin: auto;
+	padding: 10px;
+}
+
+#main-header{
+	font-family: "Copper plate", Papyrus, Fantasy;
+	font-size: 50px;
+	text-align: center;
+	font-style: bold;
+	border: 10px solid #ddd;
+	background-color: #ddd;
+}
+
+.container{
+	width: 100%;
+	margin: auto;
+	padding: 
+}
+
+#navbar{
+	
+	background-color: #060F5D;
+	color: white;
+	border: 5px solid #060F5D;
+	
+}
+
+#navbar ul{
+	list-style: none;
+	padding: 0px;
+	
+	
+}
+
+#navbar li{
+	display: inline;
+	
+
+
+}
+
+#navbar a{
+	
+	padding-right: 70px;
+	padding-left: 100px;
+	text-decoration: none;
+	color: #fff;
+
+}
+
+.a1{
+	margin: auto;
+	padding-left: 10px;
+	border: solid 5px #89C8B0;
+	background-color: #D4F2C0;
+
+}
+
+.a1 h1{
+	font-family: cursive;
+	 
+
+
+}
+
+.a1 p{
+	font-family: cursive;
+
+
+}
+
+/*
+.container li:nth-child(1){
+   background-color:rgb(251, 0, 0);
+}
+
+.container li:nth-child(2){
+   background-color:rgb(251, 0, 0);
+}
+.container li:nth-child(3){
+   background-color:rgb(251, 0, 0);
+}
+.container li:nth-child(4){
+   background-color:rgb(251, 0, 0);
+}
+.container li:nth-child(5){
+   background-color:rgb(251, 0, 0);
+}
+.container li:nth-child(6){
+   background-color:rgb(251, 0, 0);
+}
+.container li:nth-child(7){
+   background-color:rgb(251, 0, 0);
+}
+*/
+
+
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+  font-family: cursive;
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 70%; background-color: #E52B11;} /* Green */
+.css {width: 65%; background-color: #E5A211;} /* Blue */
+.cpp {width: 75%; background-color: #E51138;} /* Red */
+.digital {width: 85%; background-color: #2E541B;} /* Dark Grey */
+.mp {width: 80%; background-color: #BB11E5;} /* Red */
+.hdl {width: 80%; background-color: #E51188;}
+
+.reg{
+	margin: auto;
+	padding-left: 10px;
+	border: solid 5px #89C8B0;
+}
+
+.edu{
+	border: solid 5px #89C8B0;
+	padding-left: 10px;
+	margin: auto;
+	background-color: #D4F2C0; 
+}
+
+.pro{
+	border: solid 5px #89C8B0;
+	padding-left: 10px;
+	margin: auto;
+
+}
+
+.add{
+	border: solid 5px #89C8B0;
+	padding-left: 10px;
+	margin: auto;
+	background-color: #D4F2C0; 
+
+}
+
+.flex ul{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	list-style: none;
+	text-decoration: none;
+
+}
+
+#main-footer{
+	text-align: center;
+	background-color: #333;
+	color: #fff;
+}
+
+
+
+	
+
+
